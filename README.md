@@ -1,6 +1,6 @@
 # EDA PlayStore Apps Analysis
 
-![](![image](https://user-images.githubusercontent.com/48561668/203239866-bdd10afc-c022-4e92-9b0b-7e8ae857b3b2.png))
+![image](https://user-images.githubusercontent.com/48561668/203239866-bdd10afc-c022-4e92-9b0b-7e8ae857b3b2.png)
 
 # 📖PROBLEM STATEMENT
 
